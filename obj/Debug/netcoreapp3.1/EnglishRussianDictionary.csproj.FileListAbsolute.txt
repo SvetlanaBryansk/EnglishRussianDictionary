@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\C#\3. Наследование, инкапсуляция и ООП\9\EnglishRussianDictionary\bin\Debug\netcoreapp3.1\EnglishRussianDictionary.exe
+C:\Users\1\Desktop\C#\3. Наследование, инкапсуляция и ООП\9\EnglishRussianDictionary\bin\Debug\netcoreapp3.1\EnglishRussianDictionary.deps.json
+C:\Users\1\Desktop\C#\3. Наследование, инкапсуляция и ООП\9\EnglishRussianDictionary\bin\Debug\netcoreapp3.1\EnglishRussianDictionary.runtimeconfig.json
+C:\Users\1\Desktop\C#\3. Наследование, инкапсуляция и ООП\9\EnglishRussianDictionary\bin\Debug\netcoreapp3.1\EnglishRussianDictionary.runtimeconfig.dev.json
+C:\Users\1\Desktop\C#\3. Наследование, инкапсуляция и ООП\9\EnglishRussianDictionary\bin\Debug\netcoreapp3.1\EnglishRussianDictionary.dll
+C:\Users\1\Desktop\C#\3. Наследование, инкапсуляция и ООП\9\EnglishRussianDictionary\bin\Debug\netcoreapp3.1\EnglishRussianDictionary.pdb
+C:\Users\1\Desktop\C#\3. Наследование, инкапсуляция и ООП\9\EnglishRussianDictionary\obj\Debug\netcoreapp3.1\EnglishRussianDictionary.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\C#\3. Наследование, инкапсуляция и ООП\9\EnglishRussianDictionary\obj\Debug\netcoreapp3.1\EnglishRussianDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\C#\3. Наследование, инкапсуляция и ООП\9\EnglishRussianDictionary\obj\Debug\netcoreapp3.1\EnglishRussianDictionary.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\C#\3. Наследование, инкапсуляция и ООП\9\EnglishRussianDictionary\obj\Debug\netcoreapp3.1\EnglishRussianDictionary.AssemblyInfo.cs
+C:\Users\1\Desktop\C#\3. Наследование, инкапсуляция и ООП\9\EnglishRussianDictionary\obj\Debug\netcoreapp3.1\EnglishRussianDictionary.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\C#\3. Наследование, инкапсуляция и ООП\9\EnglishRussianDictionary\obj\Debug\netcoreapp3.1\EnglishRussianDictionary.dll
+C:\Users\1\Desktop\C#\3. Наследование, инкапсуляция и ООП\9\EnglishRussianDictionary\obj\Debug\netcoreapp3.1\EnglishRussianDictionary.pdb
+C:\Users\1\Desktop\C#\3. Наследование, инкапсуляция и ООП\9\EnglishRussianDictionary\obj\Debug\netcoreapp3.1\EnglishRussianDictionary.genruntimeconfig.cache

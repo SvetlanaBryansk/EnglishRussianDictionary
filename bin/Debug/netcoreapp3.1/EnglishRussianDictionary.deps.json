@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EnglishRussianDictionary/1.0.0": {
+        "runtime": {
+          "EnglishRussianDictionary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EnglishRussianDictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
